@@ -35,11 +35,20 @@ Based on testing data, we improved the prototype:
 * **Clarity:** Added icons to the "Change Today" options to reduce cognitive load[cite: 1259].
 
 ## 3. Key Views
-*(https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/Images/Home.png)*
-* **Home Dashboard:** Quick overview of daily tasks.
-* **Training Load:** Visualizing impact to prevent injury.
-* **Adaptive Scheduling:** "Change Today" flow for unexpected life events.
+
+<table>
+  <tr>
+    <td align="center"><b>Home Dashboard</b></td>
+    <td align="center"><b>Training Load</b></td>
+    <td align="center"><b>Change Today</b></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Home.png" width="250"></td>
+    <td><img src="Images/Training%20Load.png" width="250"></td>
+    <td><img src="Images/Change%20Today.png" width="250"></td>
+  </tr>
+</table>
 
 ## 4. Full Report
-[📄 Read the Full UI/UX Report (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Mintesnot_Pamit_Moeez_UI-UX%20report.pdf)
-[📄 See the Whole WireFrames (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Group4_DUGGAL-YIMER-AHMED.pdf)
+* [📄 Read the Full UI/UX Report (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Mintesnot_Pamit_Moeez_UI-UX%20report.pdf)
+* [📄 See the Whole WireFrames (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Group4_DUGGAL-YIMER-AHMED.pdf)
