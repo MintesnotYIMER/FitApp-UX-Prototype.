@@ -35,7 +35,7 @@ Based on testing data, we improved the prototype:
 * **Clarity:** Added icons to the "Change Today" options to reduce cognitive load[cite: 1259].
 
 ## 3. Key Views
-*(Insert your screenshots here)*
+*(https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/Images/Home.png)*
 * **Home Dashboard:** Quick overview of daily tasks.
 * **Training Load:** Visualizing impact to prevent injury.
 * **Adaptive Scheduling:** "Change Today" flow for unexpected life events.
