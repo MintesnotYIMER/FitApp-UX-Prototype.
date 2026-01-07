@@ -41,4 +41,5 @@ Based on testing data, we improved the prototype:
 * **Adaptive Scheduling:** "Change Today" flow for unexpected life events.
 
 ## 4. Full Report
-[📄 Read the Full UI/UX Report (PDF)](./Mintesnot_Pamit_Moeez_UI-UX%20report.pdf)
+[📄 Read the Full UI/UX Report (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Mintesnot_Pamit_Moeez_UI-UX%20report.pdf)
+[📄 See the Whole WireFrames (PDF)](https://github.com/MintesnotYIMER/FitApp-UX-Prototype./blob/main/File/Group4_DUGGAL-YIMER-AHMED.pdf)
